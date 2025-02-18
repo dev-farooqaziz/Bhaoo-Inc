@@ -9,7 +9,7 @@ export const metadata = {
     googleBot: {
       index: false,
       follow: false,
-      noimageindex: true,
+      noimageindex: false,
       'max-video-preview': -1,
       'max-image-preview': 'large',
       'max-snippet': -1,
