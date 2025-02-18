@@ -4,7 +4,7 @@ import React from 'react'
 import { FaArrowRight } from 'react-icons/fa'
 // Images
 import BrandOne from "media/images/brnad-1.png"
-import BrandTwo from "media/images/brnad-2.PNG"
+import BrandTwo from "media/images/brnad-2.png"
 import BrandThree from "media/images/brnad-3.png"
 import BrandFour from "media/images/brnad-4.png"
 import BrandFive from "media/images/brnad-5.png"
